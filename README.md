@@ -48,7 +48,7 @@ pip install pillow imageio numpy
 
 2. **Configuration**
 
--It will ask you for your input for each text when running the program.
+- It will ask you for your input for each text when running the program.
 
 3. **Running the Script**
 
