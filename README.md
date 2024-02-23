@@ -1,7 +1,9 @@
 
-Project Title: Themed Animation Creator
+---
 
-Description
+# Project Title: Themed Animation Creator
+
+## Description
 
 Themed Animation Creator is a Python application designed to generate custom, themed animations. Users can input text, select a theme, and the script generates a GIF animation with styled text transitions and background effects tailored to the chosen theme. Themes include Nintendo, Rainbow, Acid, and Original, each offering a unique visual experience.
 
